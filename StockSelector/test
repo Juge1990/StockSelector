@@ -1,0 +1,3 @@
+{"showapi_res_code":0,
+"showapi_res_error":"",
+"showapi_res_body":{"ret_code":0,"list":[{"stockName":"伊利股份","trade_money":"730850000","diff_money":"0.26","open_price":"16.68","code":"600887","date":"2016-07-01","min_price":"16.65","market":"sh","trade_num":"432254","close_price":"16.93","max_price":"17.06","swing":"2.46","diff_rate":"1.56"}]}}
